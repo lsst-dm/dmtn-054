@@ -8,7 +8,7 @@
      :target: http://dx.doi.org/10.5281/zenodo.#####
 
 #############################
-Conventions Used by verify_ap
+Conventions Used by ap_verify
 #############################
 
 DMTN-054
