@@ -13,7 +13,7 @@ serial_number: '054'
 doc_id: 'DMTN-054'
 
 # Title of the document, without the series/serial designation
-doc_title: 'Conventions Used by ap_verify'
+doc_title: ''
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
@@ -37,7 +37,7 @@ authors:
 copyright: '2017, AURA/LSST'
 
 # Description. A short, 1-2 sentence statemement used by document indices.
-description: 'Rules adopted by the AP pipeline to organize verification code throughout the Stack.'
+description: ''
 
 # Abstract, if available
 # abstract: >

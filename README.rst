@@ -7,14 +7,14 @@
   .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.#####.svg
      :target: http://dx.doi.org/10.5281/zenodo.#####
 
-#############################
-Conventions Used by ap_verify
-#############################
+########
+Untitled
+########
 
 DMTN-054
 ========
 
-Rules adopted by the AP pipeline to organize verification code throughout the Stack.
+Subtitle deleted
 
 **Links:**
 
