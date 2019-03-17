@@ -13,7 +13,7 @@ serial_number: '054'
 doc_id: 'DMTN-054'
 
 # Title of the document, without the series/serial designation
-doc_title: ''
+doc_title: 'Conventions Used by ap_verify'
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
@@ -22,7 +22,7 @@ authors:
 # Current document revision date, YYYY-MM-DD
 # Only set this field if you need to manually fix the revision date;
 # the revision date is obtained from the HEAD Git commit otherwise.
-# last_revised: 'YYYY-MM-DD'
+last_revised: '2017-10-03'
 
 # Version. Use Semvar, e.g., 1.0, including .dev, as necessary
 # This version string should correspond to the git tag when the document is published on Zenodo
@@ -37,7 +37,7 @@ authors:
 copyright: '2017, AURA/LSST'
 
 # Description. A short, 1-2 sentence statemement used by document indices.
-description: ''
+description: 'This technical note is deprecated (as of October 3, 2018)'
 
 # Abstract, if available
 # abstract: >
