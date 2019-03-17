@@ -7,14 +7,14 @@
   .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.#####.svg
      :target: http://dx.doi.org/10.5281/zenodo.#####
 
-########
-Untitled
-########
+#############################
+Conventions Used by ap_verify
+#############################
 
 DMTN-054
 ========
 
-Subtitle deleted
+This document is deprecated as of 2018-10-03.
 
 **Links:**
 

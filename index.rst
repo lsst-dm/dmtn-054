@@ -46,5 +46,5 @@
 
 .. note::
 
-   **This technote has been withdrawn.**
+   This document is deprecated.
 
